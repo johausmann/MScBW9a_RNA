@@ -1,0 +1,26 @@
+---
+title: "MScBW9a RNA Biologie der Eukaryoten"
+author: "Johannes Hausmann, Luis Kress"
+date: "`r Sys.Date()`"
+#knit: pagedown::chrome_print
+links-to-footnotes: true
+output:
+  html_document:
+    css: css/test.css
+---
+
+> Written and answered on a best effort basis. It might contain wrong answers.
+> Copying without questioning leads to your ruin!
+
+
+## 1. Post-transcriptional gene regulation via 3’-UTRs of mRNAs
+
+## 2. Concepts of cisRNA - transProtein complex formation
+
+## 3. Classical and new, state-of-the-art methods to investigate RNA-protein interactions
+
+## 4. Prä-mRNA Spleißen und die Regulation von alternativem Spleißen
+
+## 5. Non-coding RNAs and nuclear architecture
+
+## 6. New methods to study the regulation of gene expression
